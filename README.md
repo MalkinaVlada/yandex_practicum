@@ -1,1 +1,1 @@
-# projects_data_science
+# yandex_practicum
