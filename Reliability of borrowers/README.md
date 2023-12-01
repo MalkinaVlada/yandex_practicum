@@ -1,6 +1,7 @@
 # Исследование надежности заемщиков / Borrower reliability research
 ## Данные / Data
 Входные данные от банка — статистика о платёжеспособности клиентов.
+
 Input data from the bank - statistics on the solvency of clients.
 
 ## Описание данных / Data Description
