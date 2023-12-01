@@ -5,7 +5,7 @@
 
 Oil samples were provided in three regions: in each 10,000 fields, where the quality of oil and the volume of its reserves were measured. It is required to build a machine learning model that will help determine the region where mining will bring the greatest profit, analyze possible profits and risks using the Bootstrap technique.
 
-## Задача Task
+## Задача / Task
 Добывающей компании нужно решить, где бурить новую скважину.
 
 A mining company needs to decide where to drill a new well.
