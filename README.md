@@ -1,10 +1,12 @@
 # yandex_practicum
  
-## Описание проектов
+## Описание проектов / Description of projects
 
 Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Специалист по Data Science".
 
-| #    | Наименование проекта                | Описание                                                     | Стек                                                         |
+These projects were completed during training at Yandex.Practice, the profession "Data Science Specialist".
+
+| #    | Наименование проекта / name of the project                | Описание / Description                                                    | Стек / Stack                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1.   | [Музыка больших городов / Music of big cities](https://github.com/MalkinaVlada/yandex_practicum/tree/main/Music%20in%20cities) | Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница) / Comparison of preferences of Yandex.Music users from Moscow and St. Petersburg depending on time (morning and evening) and day of the week (Monday, Wednesday, Friday) | *pandas* |
 | 2.   | [Исследование надёжности заёмщиков / Borrower reliability research](https://github.com/MalkinaVlada/yandex_practicum/tree/main/Reliability%20of%20borrowers) | Заказчик — кредитный отдел банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок / The customer is the credit department of the bank. We need to figure out whether the client’s marital status and number of children affect the fact of repaying the loan on time | *pandas*       |
