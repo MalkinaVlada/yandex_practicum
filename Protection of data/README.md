@@ -9,3 +9,4 @@ It is necessary to protect the data so that the quality of machine learning mode
 
 ## Используемые библиотеки / Libraries used
 *pandas*, *numpy*, *sklearn*
+
