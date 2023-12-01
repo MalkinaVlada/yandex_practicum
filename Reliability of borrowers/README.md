@@ -29,8 +29,7 @@ total_income - monthly income;
 purpose — purpose of obtaining a loan.
 
 ## Задача / Task
-Разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок.
-Understand whether the client’s marital status and number of children affect the fact of repaying the loan on time.
+Разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. / Understand whether the client’s marital status and number of children affect the fact of repaying the loan on time.
 
 ## Используемые библиотеки / Libraries used
 *pandas*
